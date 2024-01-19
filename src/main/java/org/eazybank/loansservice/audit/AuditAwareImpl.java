@@ -1,4 +1,4 @@
-package org.eazybank.loansservice.constants;
+package org.eazybank.loansservice.audit;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.stereotype.Component;
